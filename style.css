@@ -2,61 +2,6 @@
   display: none;
 }
 
-#ghost-input {
-  display: none;
-}
-
-.question::before {
-  content: "Q: ";
-  font-size: 18px;
-  color: #CFBB61;
-}
-
-.question {
-  font-style: italic;
-  font-size: 18px;
-  color: #CFBB61;
-  margin: 25px 0 0 0;
-}
-
-.answer::before {
-  content: "A: ";
-  color: #CFBB61;
-}
-
-.btn-share {
-  display: none;
-}
-
-.btn-share::after {
-  content: "Copy link to this answer to clipboard!";
-  color: #C30000;
-  margin: 0 0 0 0;
-  font-size: 10px;
-  cursor: pointer;
-}
-
-.faq-section {
-  border-radius: 15px;
-  padding: 10px;
-  background: #262728AB;
-}
-
-.faq-link {
-  color: #7289DA;
-}
-
-.interaction {
-  border-radius: 15px;
-  padding: 10px;
-  background: #262728AB;
-  margin-bottom: 15px;
-}
-
-.interaction p {
-  margin: 0;
-}
-
 .logo {
   width: 100%;
   height: auto;
