@@ -9,7 +9,7 @@ body {
 }
 
 html {
- background: url(assets/floating_rocks.jpg) no-repeat center center fixed; 
+ background: url(assets/the_gate_code.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -31,8 +31,4 @@ footer p small{
 footer p small:after{
   color: #F7F7F7 !important;
   content: ". Edited by lyniat.games.";
-}
-
-header {
-  display: none;
 }
