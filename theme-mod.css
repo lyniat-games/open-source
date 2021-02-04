@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, body {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+body {
+  background-color: #00000000 !important;
+}
+
+html {
+ background: url(assets/floating_rocks.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+
+h1, h2, h3, h4, h5{
+  color: #CFBB61 !important;
+}
+
+p {
+  color: #F7F7F7 !important;
+}
+
+footer p small{
+  color: #F7F7F7 !important;
+}
+
+footer p small:after{
+  color: #F7F7F7 !important;
+  content: ". Edited by lyniat.games.";
+}
+
+header {
+  display: none;
+}
